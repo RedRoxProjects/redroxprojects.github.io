@@ -1,0 +1,8 @@
+title: "Hello, I'm Amy - Nice to Meet You! "
+description: Computer Science Student, Music Lover/Creator and Women in Technology Enthusiast
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
